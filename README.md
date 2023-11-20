@@ -21,7 +21,7 @@ YOLOv8 uses CNN to detect objects because of the following reasons:
 - CNN can perform end-to-end learning, which means that it can learn the mapping from raw pixels to object labels and bounding boxes without any intermediate steps or handcrafted features.
 - CNN can achieve high accuracy and speed in object detection, which are the main goals of YOLOv8.
 
-## Implementation steps:
+## Whaf I have implemented:
 1, Collect data on birds captured by drones. [example](test/000703.png) <br />
 2, Label the [data](results/label_image.png). <br />
 3, Check data [labels](results/labels.jpg), [labels correlogram](results/labels_correlogram.jpg)<br />
